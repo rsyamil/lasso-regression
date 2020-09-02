@@ -1,1 +1,1 @@
-# linear-model-for-classification
+# lasso regression
